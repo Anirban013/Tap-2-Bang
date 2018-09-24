@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tap 2 Bang", "Assembly-CSharp.csproj", "{6364475A-CDEF-5BEB-2700-FBF25802DC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tap 2 Bang", "Assembly-CSharp-firstpass.csproj", "{858A47CF-CE40-BB85-8956-5E421F83FB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tap 2 Bang", "Assembly-CSharp-Editor.csproj", "{D120CEDE-A8E1-167F-C114-01C6D0DA8C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6364475A-CDEF-5BEB-2700-FBF25802DC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6364475A-CDEF-5BEB-2700-FBF25802DC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6364475A-CDEF-5BEB-2700-FBF25802DC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6364475A-CDEF-5BEB-2700-FBF25802DC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858A47CF-CE40-BB85-8956-5E421F83FB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858A47CF-CE40-BB85-8956-5E421F83FB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858A47CF-CE40-BB85-8956-5E421F83FB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858A47CF-CE40-BB85-8956-5E421F83FB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D120CEDE-A8E1-167F-C114-01C6D0DA8C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D120CEDE-A8E1-167F-C114-01C6D0DA8C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D120CEDE-A8E1-167F-C114-01C6D0DA8C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D120CEDE-A8E1-167F-C114-01C6D0DA8C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
