@@ -2,6 +2,8 @@
 
 Link: https://play.google.com/store/apps/details?id=com.Orca.Tap2Bang
 
+Version 1.0.3
+
 This is a very CHALLENGING GAME; If you like CHALLENGE then this game is for you. 
 
 - Challenging Game!
